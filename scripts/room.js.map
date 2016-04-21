@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "room.js",
+  "sourceRoot": "",
+  "sources": [
+    "room.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;;AAAA"
+}
